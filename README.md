@@ -3,15 +3,13 @@
   <p><b>Engenheiro da Computação em formação | Desenvolvedor Python & Suporte de TI</b></p>
 </div>
 
-Atuo no suporte a usuários de TI e acompanhamento de demandas, aplicando meus conhecimentos em manutenção de software e análise de processos para otimizar operações. Atualmente sou Aprendiz de Programação de Sistemas e estudante de Engenharia da Computação.
 
----
+
 
 ### 🚀 Sobre Mim
 - 🎓 Estudante de **Engenharia da Computação** na Estácio Nazaré (Previsão: 2028).
 - 💼 Atualmente trabalhando como **Aprendiz de Programação de Sistemas** na Renova Soluções em Tecnologia, onde crio automações em Python/Django.
 - 🔧 Experiência como **Técnico de Redes Telecom N1**, com foco em infraestrutura FTTH e suporte técnico.
-- 📚 Estudando continuamente sobre CI/CD, TDD, Docker, APIs seguras, e desenvolvimento web com Python.
 
 ---
 
@@ -22,8 +20,6 @@ Atuo no suporte a usuários de TI e acompanhamento de demandas, aplicando meus c
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <!-- Django -->
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <!-- Flask -->
-  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
   <!-- PostgreSQL -->
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <br>
@@ -33,8 +29,6 @@ Atuo no suporte a usuários de TI e acompanhamento de demandas, aplicando meus c
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <!-- Git -->
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <!-- Docker -->
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
 **Outros conhecimentos:**
